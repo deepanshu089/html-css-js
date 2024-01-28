@@ -14,6 +14,10 @@ body{
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-style: normal;
+    background-image: url("https://images.pexels.com/photos/7078619/pexels-photo-7078619.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
 html{
     scroll-behavior: smooth;
 }
@@ -430,6 +434,6 @@ footer{
 
 footer p{
     text-align: center;
-    
+
 
 }
